@@ -1,4 +1,4 @@
-<img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/master/img/Profile/img2.png" alt="Reddy Prasad" width="600" height="600">
+<img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/master/img/Profile/img2.png" alt="Reddy Prasad" align="left" width="600" height="600">
 
 ![](https://komarev.com/ghpvc/?username=reddyprasade&style=flat-square&color=EA4AAA)
 
