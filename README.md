@@ -14,7 +14,8 @@
 	<a  herf="https://www.facebook.com/reddyprasade"><img src="https://img.shields.io/badge/-Reddy-blue?style=social&logo=Facebook&"></a>
 </p>
 
-<p>Follow me on Technologies Update 👇
+<p>Follow me on Technologies Update 👇</p>
+<p align="center">
 	<a herf="https://www.kaggle.com/reddyprasade"><img src="https://img.shields.io/badge/@reddyprasade-blue?style=social&logo=Kaggle"></a>
 	<a href="https://github.com/sponsors/reddyprasade"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=orange" alt="GitHub Sponsors"></a>
 	<a herf="https://github.com/reddyprasade"><img src="https://komarev.com/ghpvc/?username=reddyprasade&style=flat-square&color=EA4AAA"</a>	
