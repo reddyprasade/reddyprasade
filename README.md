@@ -15,13 +15,6 @@
 	<a  herf="https://www.facebook.com/reddyprasade"><img src="https://img.shields.io/badge/-Reddy-blue?style=social&logo=Facebook&"></a>
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=reddyprasade&theme=cobalt&show_icons=true&count_private=true"></img>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyprasade)](https://github.com/reddyprasade/github-readme-stats)
-
-
-
 <p>Follow me on Technologies Update 👇</p>
 <p align="center">
 	<a herf="https://www.kaggle.com/reddyprasade"><img src="https://img.shields.io/badge/@reddyprasade-blue?style=social&logo=Kaggle"></a>
@@ -29,6 +22,13 @@
 	<a herf="https://github.com/reddyprasade"><img src="https://komarev.com/ghpvc/?username=reddyprasade&style=flat-square&color=EA4AAA"</a>
 	
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=reddyprasade&theme=cobalt&show_icons=true&count_private=true"></img>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyprasade)](https://github.com/reddyprasade/github-readme-stats)
+
+
+
+
 
 
 
