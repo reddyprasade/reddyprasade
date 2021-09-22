@@ -6,7 +6,7 @@
 </p>
 
 <p>
-	Reddy Prasade is CTO & Machine Learning & Researcher at ClientoClarify.AI; Founder of LearnbyDoing, Skill Developement Center at ClientoClarify.AI ; and an leading instructor at Itrain Technologies & ClientoClarify.AI Skill Developement Center. 
+	Reddy Prasade is Machine Learning & Researcher at ClientoClarify.AI; Founder of LearnbyDoing, Skill Developement Center at ClientoClarify.AI ; and an leading instructor at Itrain Technologies & ClientoClarify.AI Skill Developement Center. 
 
 Reddy Prasade also works on machine learning with an emphasis on deep learning. He founded and led the “ClientoClarify.AI Brain” project which developed massive-scale deep learning algorithms. This resulted in the famous “ClientoClarify.AI cat” result, in which a massive neural network with 1 billion parameters learned from unlabeled YouTube videos to detect cats. More recently, he continues to work on deep learning and its applications to computer vision and speech, including such applications as autonomous driving.
 </p>
