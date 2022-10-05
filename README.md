@@ -2,11 +2,11 @@
 <img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/main/images/profile/img2.png" alt="Reddy Prasad" align="left" width="400" height="400">
 
 
-<p>Reddy Prasad works as <b> Machine Learning Research</b> @sumerusolutions Private Limited Team  adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments and hosts Learn With Reddyprasade. He spends a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. He is trying his very best to follow his own advice. He lives in Bangalore, India. 
+<p>Reddy Prasad works as <b> AIML – Consultant </b> @Sumeru Solutions Private Limited Team  adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments and hosts Learn With Reddyprasade. He spends a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. He is trying his very best to follow his own advice. He lives in Bangalore, India. 
 </p>
 
 <p>
-	Reddy Prasade is Machine Learning & Researcher at ClientoClarify.AI; Founder of LearnbyDoing, Skill Developement Center at ClientoClarify.AI ; and an leading instructor at Itrain Technologies & ClientoClarify.AI Skill Developement Center. 
+	Reddy Prasade is AIML – Consultant at Sumeru Solutions Private Limited; Founder of LearnbyDoing, Skill Developement Center at Sumeru Solutions Private Limited. 
 
 Reddy Prasade also works on machine learning with an emphasis on deep learning. He founded and led the “ClientoClarify.AI Brain” project which developed massive-scale deep learning algorithms. This resulted in the famous “ClientoClarify.AI cat” result, in which a massive neural network with 1 billion parameters learned from unlabeled YouTube videos to detect cats. More recently, he continues to work on deep learning and its applications to computer vision and speech, including such applications as autonomous driving.
 </p>
