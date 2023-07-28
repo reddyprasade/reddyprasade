@@ -32,7 +32,8 @@ Reddy Prasade also works on machine learning with an emphasis on deep learning. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyprasade)](https://github.com/reddyprasade/github-readme-stats)
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="reddy-prasad-e-03b12656" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/reddy-prasad-e-03b12656?trk=profile-badge">Reddy Prasad E</a></div>
+              
 
 
 
