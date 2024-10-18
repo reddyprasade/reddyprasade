@@ -2,14 +2,16 @@
 <img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/main/images/profile/img2.png" alt="Reddy Prasad" align="left" width="400" height="400">
 
 
-<p>Reddy Prasad works as <b> AIML – Consultant </b> @Girikon Solutions Pvt. Ltd. Team  adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments and hosts Learn With Reddyprasade. He spends a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. He is trying his very best to follow his own advice. He lives in Bangalore, India. 
-</p>
+<p>"I’m Reddy Prasad, an AI/ML Consultant, specializing in Generative AI, Data Science, Prompt Engineering, and various other areas of AI, with a passion for excellence and innovation that fuels the growth of AI. Currently, I work at Girikon Solutions Pvt. Ltd., where I leverage Generative AI, Machine Learning, Deep Learning, and LLMs to create transformative solutions that think, learn, and adapt with real brilliance.
 
-<p>
-	Reddy Prasade is AIML – Consultant at Sumeru Solutions Private Limited; Founder of LearnbyDoing, Skill Developement Center at Sumeru Solutions Private Limited. 
+Throughout my career, I’ve had the privilege of working with several leading companies, including Sumeru Software Solutions Private Limited, ClientoClarify, BroadNexus (TMTS), and Bitit. My experience spans various industries such as transportation, energy, security, and information technology. Some key projects I’ve contributed to include:
 
-Reddy Prasade also works on machine learning with an emphasis on deep learning. He founded and led the “ClientoClarify.AI Brain” project which developed massive-scale deep learning algorithms. This resulted in the famous “ClientoClarify.AI cat” result, in which a massive neural network with 1 billion parameters learned from unlabeled YouTube videos to detect cats. More recently, he continues to work on deep learning and its applications to computer vision and speech, including such applications as autonomous driving.
-</p>
+Developing the Playground Application utilizing the in-house Baali Model at Girikon.
+Building an AI ATS Application with Girikon’s Baali Model, where I identified skill gaps, ranked candidates, and generated customized courses for employees based on job descriptions.
+Creating a Test Case Generation SLM Model that generates and executes test cases using the Baali Model.
+Contributing to Boman.ai, a security platform that integrates AI/ML into DevSecOps, delivering continuous security scanning solutions.
+Developing BroadNexus Prajna.ai Chatbots, which facilitate real-time, natural, and human-like conversational experiences to enhance customer satisfaction.
+With deep expertise in data pipeline management, model evaluation, and business intelligence, I remain committed to advancing the AI/ML field. I also actively contribute to open-source projects on GitHub and Kaggle, constantly staying engaged with the AI community."</p>
 <br>
 	<p>Follow me on Social Media 👇</p>
 <br>
